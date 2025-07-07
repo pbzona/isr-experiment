@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Quantum Entanglement",
+    "content": "A physical phenomenon that occurs when a pair or group of particles is generated, interacts, or shares spatial proximity in such a way that the quantum state of each particle of the pair or group cannot be described independently of the state of the others, including when the particles are separated by a large distance."
+  },
+  {
+    "id": "2",
+    "title": "General Relativity",
+    "content": "The geometric theory of gravitation published by Albert Einstein in 1915 and is the current description of gravitation in modern physics. General relativity generalizes special relativity and refines Newton's law of universal gravitation, providing a unified description of gravity as a geometric property of space and time or four-dimensional spacetime."
+  },
+  {
+    "id": "3",
+    "title": "Dark Matter",
+    "content": "A form of matter thought to account for approximately 85% of the matter in the universe and about a quarter of its total mass–energy density or about 2.241×10−27 kg/m3. Its presence is implied in a variety of astrophysical observations, including gravitational effects that cannot be explained by accepted theories of gravity unless more matter is present than can be seen."
+  }
+]

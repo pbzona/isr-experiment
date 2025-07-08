@@ -1,3 +1,5 @@
+"use client";
+
 export const revalidate = 300;
 
 export default async function ErrorPage() {

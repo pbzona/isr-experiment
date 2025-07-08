@@ -1,7 +1,7 @@
 import { getItem, getItems } from "@/lib/data";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import RevalidateInfo from "../../../components/revalidate-info";
+import RevalidateInfo from "@/components/revalidate-info";
 
 // Revalidate this page every 60 seconds
 export const revalidate = 60;
@@ -13,6 +13,8 @@ export async function generateStaticParams() {
 		id: item.id,
 	}));
 }
+
+export const dynamicParams = false;
 
 export default async function ItemPage({
 	params,
